@@ -1,2 +1,2 @@
-g++ cpp/binary_heap.cpp -o binary_heap
-./binary_heap
+#include <unordered_map>
+std::unordered_map<std::string, int> hash_map;
